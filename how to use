@@ -1,0 +1,5 @@
+install commands
+open termux then paste those commands
+termux-setup-storage
+bash ~/storage/downloads/pa-setup.sh
+then type pa help
